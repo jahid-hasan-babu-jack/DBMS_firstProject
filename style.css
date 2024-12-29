@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 100%;
+    max-width: 1920px;
+    padding: 30px 70px;
+    margin: 0 auto;
+}
+
+.formHeading{
+    text-align: center;
+}
+.formHeading p{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.form{
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.form label{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.form input{
+    width: 100%;
+    height: 35px;
+    margin-bottom: 20px;
+    margin-top: 4px;
+    padding: 5px;
+    font-size: 17px;
+    border: 1px solid rgba(109, 109, 109, 0.564);
+    border-radius: 5px;
+}
+
+.form button{
+    width: 100%;
+    height: 34px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(8, 134, 8);
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.btn2{
+    background-color: rgb(134, 22, 3) !important;
+}
+
+.btn3{
+    background-color: red!important;
+}
+
+.btnBackstu{
+    width: 100px;
+    height: 30px;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.listHeading h1{
+    text-align: center;
+}
+
+.btnedit{
+    width: 100px;
+    height: 30px;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.editHeading{
+    margin-bottom: 35px;
+}
+
+.editHeading h1{
+    text-align: center;
+}
+/* .stuTable{
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 40px;
+} */
+
+/* .studentTable{
+    width: 100%;
+}
+
+.studentTable, td,tr,th{
+    border: 1px solid rgba(141, 141, 141, 0.34);
+    border-collapse: collapse;
+    padding: 6px;
+}
+
+.studentTable th{
+    background-color: rgba(198, 196, 196, 0.313);
+} */
